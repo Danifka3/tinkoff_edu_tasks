@@ -1,0 +1,8 @@
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\bin\Debug\Task_4.exe
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\bin\Debug\Task_4.pdb
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\obj\Debug\Task_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\obj\Debug\Task_4.exe
+C:\Users\danil\OneDrive\Desktop\Tink_proj\Task_4\Task_4\obj\Debug\Task_4.pdb
