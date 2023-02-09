@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4", "Task_4\Task_4.csproj", "{C8C75154-699D-45EE-AEA1-BA1662A130DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Условие и тесты", "Условие и тесты", "{94577602-3D02-4ADC-BA33-10C80079245A}"
+	ProjectSection(SolutionItems) = preProject
+		task-4(tests).jpg = task-4(tests).jpg
+		task-4.jpg = task-4.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C75154-699D-45EE-AEA1-BA1662A130DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C75154-699D-45EE-AEA1-BA1662A130DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C75154-699D-45EE-AEA1-BA1662A130DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C75154-699D-45EE-AEA1-BA1662A130DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D45B7501-C03A-48DC-A438-58B9A8A7833B}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,0 @@
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\obj\Debug\1_task.csproj.AssemblyReference.cache
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\obj\Debug\1_task.csproj.SuggestedBindingRedirects.cache
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\obj\Debug\1_task.csproj.CoreCompileInputs.cache
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\bin\Debug\1_task.exe.config
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\bin\Debug\1_task.exe
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\bin\Debug\1_task.pdb
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\obj\Debug\1_task.exe
-C:\Users\danil\OneDrive\Desktop\Tink_proj\1_task\1_task\obj\Debug\1_task.pdb
